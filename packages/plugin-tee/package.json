@@ -7,7 +7,7 @@
     "dependencies": {
         "@ai16z/eliza": "workspace:*",
         "@phala/dstack-sdk": "0.1.4",
-        "@solana/spl-token": "0.4.9",
+        "@solana/spl-token": "0.4.13",
         "@solana/web3.js": "1.95.8",
         "bignumber": "1.1.0",
         "bignumber.js": "9.1.2",
