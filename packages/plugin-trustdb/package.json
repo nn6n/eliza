@@ -7,7 +7,7 @@
     "dependencies": {
         "@ai16z/eliza": "workspace:*",
         "dompurify": "3.2.2",
-        "tsup": "8.3.5",
+        "tsup": "8.5.1",
         "uuid": "11.0.3",
         "vitest": "2.1.5"
     },
