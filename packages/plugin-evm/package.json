@@ -10,7 +10,7 @@
         "@lifi/data-types": "5.15.5",
         "@lifi/sdk": "3.4.1",
         "@lifi/types": "16.3.0",
-        "tsup": "8.3.5",
+        "tsup": "8.5.1",
         "viem": "2.21.53"
     },
     "scripts": {
