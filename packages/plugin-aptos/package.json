@@ -7,7 +7,7 @@
     "dependencies": {
         "@ai16z/eliza": "workspace:*",
         "@ai16z/plugin-trustdb": "workspace:*",
-        "@aptos-labs/ts-sdk": "^1.26.0",
+        "@aptos-labs/ts-sdk": "^1.35.0",
         "bignumber": "1.1.0",
         "bignumber.js": "9.1.2",
         "node-cache": "5.1.2",
